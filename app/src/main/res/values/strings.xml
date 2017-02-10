@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Hw2</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="edit_string">Edit</string>
+    <string name="delete_movie_string">Delete Movie</string>
+    <string name="show_list_by_year_text">Show List by Year</string>
+    <string name="show_list_by_rating">Show list by Rating</string>
+    <string name="main_activity_title">My Favorite Movies</string>
+    <string name="name_string">"Name: "</string>
+    <string name="blank_text" />
+    <string name="description_txt">Description</string>
+    <string name="genre_text_view">Genre:</string>
+    <string name="rating_text">Rating:</string>
+    <string name="year_text">Year:</string>
+    <string name="imdb_text">IMDB:</string>
+    <string name="edit_text">Save Changes</string>
+    <string name="display_movies_by_year_title">Movies by Year</string>
+    <string name="title_string">Title:</string>
+    <string name="finish">Finish</string>
+
+    <string name="yearTitle">Movies by Year</string>
+    <string name="ratingTitle">Movies by Rating</string>
+
+    <string-array name="generes">
+        <item name="action">Action</item>
+        <item name="animation">Animation</item>
+        <item name="comedy">Comedy</item>
+        <item name="documentary">Documentary</item>
+        <item name="family">Family</item>
+        <item name="horror">Horror</item>
+        <item name="crime">Crime</item>
+        <item name="other">Others</item>
+    </string-array>
+
+</resources>
